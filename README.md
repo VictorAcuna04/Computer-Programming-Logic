@@ -7,3 +7,4 @@ This is a class that I took in Summer 2020 at Cerritos College. Covers logic, Py
 | Lab 1 | 20/20 |
 | Lab 2 | 20/20 |
 | Lab 3 | 20/20 |
+| Lab 4 | 20/20 |
